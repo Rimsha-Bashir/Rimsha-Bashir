@@ -7,7 +7,7 @@ I’m a Data Analyst and an aspiring Analytics Engineer, committed to delivering
 
 - 🔭 **I’m currently working on:** [GHG & CO2 Emission Analytics](https://github.com/Rimsha-Bashir/GHG-Emissions-Analytics-Pipeline)
 - 🌱 **I’m currently learning:** Data Engineering, MLOps
-- 🤝 **I'm passionate about:** Leveraging data to create real-world impact in areas like **climate**, **agriculture**, **public health**, and **sustainability**, and creating meaningful Data Storytelling experiences through intuitive **UI/UX** design.
+- 🌍 **I'm passionate about:** Leveraging data to create real-world impact in areas like **climate**, **agriculture**, **public health**, and **sustainability**, and creating meaningful Data Storytelling experiences through intuitive **UI/UX** design.
 
 ### ⚙️ Tech Stack 
 
