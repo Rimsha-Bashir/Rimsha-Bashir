@@ -2,7 +2,7 @@
 ## Hi there, I'm Rimsha Bashir! 👋
 
 ### 🧕 About Me 
- 
+
 I’m a Data Analyst and an aspiring Analytics Engineer, committed to delivering high-impact, real-world solutions.
 
 - 🔭 **I’m currently working on:** [GHG & CO2 Emission Analytics](https://github.com/Rimsha-Bashir/GHG-Emissions-Analytics-Pipeline)
@@ -36,10 +36,14 @@ I’m a Data Analyst and an aspiring Analytics Engineer, committed to delivering
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rimsha-Bashir&theme=vue-dark&show_icons=true&hide=contribs,prs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsha-Bashir&layout=compact&hide_border=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rimsha-Bashir&theme=cobalt&hide_border=true&border_radius=0&short_numbers=true&mode=weekly&card_height=160" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rimsha-Bashir&theme=cobalt&layout=compact&show_icons=true&hide=contribs,prs&hide_border=true&card_height=180&bg_color=00000000" style="height: 160px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsha-Bashir&layout=compact&hide_border=true&theme=cobalt&card_height=180&bg_color=00000000" style="height: 160px;" />
 </p>
 
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Rimsha-Bashir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🤝 Let's Connect!
 
