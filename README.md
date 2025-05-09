@@ -6,7 +6,7 @@
 I’m a Data Analyst and an aspiring Analytics Engineer, committed to delivering high-impact, real-world solutions.
 
 - 🔭 **I’m currently working on:** [The MiddleEast Wire: A Web Scraping-Powered News Aggregator](https://github.com/Rimsha-Bashir/The-MiddleEast-Wire)
-- 🌱 **I’m currently learning:** Data Engineering, MLOps
+- 🌱 **I’m currently learning:** Data Engineering, ML Fundamentals
 - 🌍 **I'm passionate about:** Leveraging data to create real-world impact in areas like **climate**, **agriculture**, **public health**, and **sustainability**, and creating meaningful Data Storytelling experiences through intuitive **UI/UX** design.
 
 ### ⚙️ Tech Stack 
