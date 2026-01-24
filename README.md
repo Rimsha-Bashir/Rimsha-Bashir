@@ -5,7 +5,7 @@
 
 I’m a Data Analyst and an aspiring Analytics Engineer, committed to delivering high-impact, real-world solutions.
 
-- 🔭 **I’m currently working on:** [Crop Yield Prediction](https://github.com/Rimsha-Bashir/crop-yield-prediction)
+- 🔭 **I’m currently working on:** [Illegal Urban Waste Zones Classification](https://github.com/Rimsha-Bashir/urban-waste-cnn)
 - 🌱 **I’m currently learning:** Machine Learning ([Datatalks Club Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp))
 - 🌍 **I'm passionate about:** Leveraging data to create real-world impact in areas like **climate**, **agriculture**, **public health**, and **sustainability**, and creating meaningful Data Storytelling experiences through intuitive **UI/UX** design.
 
